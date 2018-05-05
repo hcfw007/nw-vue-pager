@@ -1,0 +1,13 @@
+{
+  "name": "nw-vue-pager",
+  "version": "0.1.0",
+  "description": "yet another vue pager plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NickWang",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
